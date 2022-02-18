@@ -7,6 +7,10 @@ Final Machine Project in CCPROG3
 <img src="Other Deriverables/2-DrawMenu.png">
 <img src="Other Deriverables/3-GameProper.png">
 
+👧🏽👦🏽**Authors**
+   - Griffin, Faith Juliamae Orendain
+   - Tahimic, Kriz Royce Aranzanso
+
 📝**About**:
    - A turn-based two-player game inspired by the Chinese board game Dou Shou Qi or Jungle Game. 
    - This implementation made use of the MVC Architecture (Model-View-Controller) and a UML Class Diagram prior to coding. 
