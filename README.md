@@ -7,7 +7,7 @@ Final Machine Project in CCPROG3
 <img src="Other Deriverables/2-DrawMenu.png">
 <img src="Other Deriverables/3-GameProper.png">
 
-👧🏽👦🏽**Authors**
+✍🏽**Authors**
    - Griffin, Faith Juliamae Orendain
    - Tahimic, Kriz Royce Aranzanso
 
@@ -23,4 +23,4 @@ Final Machine Project in CCPROG3
 
 💻**To run**:
 
-   - Install java, seth path depending on OS, compile AnimalChess/App.java, then run.
+   - Install java, set PATH depending on OS, compile AnimalChess/App.java, then run.
