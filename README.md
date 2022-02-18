@@ -3,9 +3,9 @@ Final Machine Project in CCPROG3
 
 (Object Oriented Programming)
 </h1>
-<img src="Other Deriverables/1-MainMenu.png">
-<img src="Other Deriverables/2-DrawMenu.png">
-<img src="Other Deriverables/3-GameProper.png">
+<img src="Other Deliverables/1-MainMenu.png">
+<img src="Other Deliverables/2-DrawMenu.png">
+<img src="Other Deliverables/3-GameProper.png">
 
 📝**About**:
    - A turn-based two-player game inspired by the Chinese board game Dou Shou Qi or Jungle Game. 
