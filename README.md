@@ -7,6 +7,10 @@ Final Machine Project in CCPROG3
 <img src="Other Deliverables/2-DrawMenu.png">
 <img src="Other Deliverables/3-GameProper.png">
 
+✍🏽**Authors**
+   - Griffin, Faith Juliamae Orendain
+   - Tahimic, Kriz Royce Aranzanso
+
 📝**About**:
    - A turn-based two-player game inspired by the Chinese board game Dou Shou Qi or Jungle Game. 
    - This implementation made use of the MVC Architecture (Model-View-Controller) and a UML Class Diagram prior to coding. 
@@ -19,4 +23,4 @@ Final Machine Project in CCPROG3
 
 💻**To run**:
 
-   - Install java, seth path depending on OS, compile AnimalChess/App.java, then run.
+   - Install java, set PATH depending on OS, compile AnimalChess/App.java, then run.
