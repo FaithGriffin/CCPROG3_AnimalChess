@@ -20,7 +20,7 @@ Final Machine Project in CCPROG3
    - How To Play Dou Shou Qi. (n.d.). Ancient Chess.com. Retrieved 2021, August 29, 2021 from 
      https://ancientchess.com/page/play-doushouqi.htm
 
-
+ 
 💻**To run**:
 
    - Install java, set PATH depending on OS, compile AnimalChess/App.java, then run.
