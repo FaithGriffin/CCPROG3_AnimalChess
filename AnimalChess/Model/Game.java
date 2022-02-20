@@ -368,6 +368,7 @@ public class Game {
         }
 
         // RESET the count of killed animals of both players
+        // By going through each cell and checking if the pieces is own piece.
         for (int i = 0; i < BoardGame.getMAX_ROW(); i++)
         {
             for (int j = 0; j < BoardGame.getMAX_COL(); j++)
